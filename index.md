@@ -1,4 +1,4 @@
-！[image](https://github.com/XmaNm/XmaN/blob/main/photo.jpg)
+![image](https://github.com/XmaNm/XmaN/blob/main/photo.jpg)
 
 欢迎！我是肖宁，现在是山西财经大学信息学院的一名讲师，主要讲授数据挖掘，C语言设计与Python语言设计等课程。
 

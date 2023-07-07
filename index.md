@@ -2,3 +2,7 @@
 这是肖宁个人主页！
 
 [image](https://github.com/XmaNm/XmaN/blob/main/photo.jpg)
+
+欢迎！我是肖宁，现在是山西财经大学信息学院的一名讲师，主要讲授数据挖掘，C语言设计与Python语言设计等课程。
+
+我的研究主要包括：医学影像处理，机器学习，深度学习等方面
